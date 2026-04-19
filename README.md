@@ -21,7 +21,7 @@ My focus is on applying geospatial technologies across diverse sectors, supporti
 When I'm not working with data, I enjoy reading books and walking in nature. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-abuubakarsharif.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://abuubakarsharif.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
